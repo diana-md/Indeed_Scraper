@@ -98,3 +98,5 @@ This program is scraping job postings from indeed.com, it saves the postings loc
   </tr>
 </table>
         - Check to see if the recommended job is in the listing table. If it is not, make a request and access the url of the recommended job posting, save the HTML code in a .html file on the computer and add a new line to the listings table. 
+
+![Python Function Diagram](/python_functions_diagram.jpg)
